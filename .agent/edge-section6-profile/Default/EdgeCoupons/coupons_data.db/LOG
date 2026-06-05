@@ -1,0 +1,5 @@
+2026/06/04-21:35:40.698 4c14 Creating DB C:\Users\awais\Desktop\site\Site1\.agent\edge-section6-profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/06/04-21:35:40.795 4c14 Reusing MANIFEST C:\Users\awais\Desktop\site\Site1\.agent\edge-section6-profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/06/04-21:35:44.838 a4c Level-0 table #5: started
+2026/06/04-21:35:44.850 a4c Level-0 table #5: 682661 bytes OK
+2026/06/04-21:35:44.854 a4c Delete type=0 #3

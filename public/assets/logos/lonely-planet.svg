@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-labelledby="title">
+  <title id="title">Lonely Planet</title>
+  <circle cx="69" cy="28" r="20" fill="#2d75c7"/>
+  <text x="69" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#ffffff">LP</text>
+  <text x="147" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#0a1628">Lonely</text>
+  <text x="147" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#0a1628">Planet</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-labelledby="title">
+  <title id="title">Four Seasons Hotels and Resorts</title>
+  <path d="M60 12v31M48 22c11-3 19-3 30 0M51 31c9-3 17-3 26 0M55 39c6-2 11-2 17 0" fill="none" stroke="#8a641f" stroke-width="2" stroke-linecap="round"/>
+  <text x="148" y="26" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#0a1628">Four Seasons</text>
+  <text x="148" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#8a641f">PARTNER</text>
+</svg>

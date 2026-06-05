@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "dotEPUB"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqPEVUmjd0hjXujmLD1Fdrt1czO3ay2w310j/JW7xg31tiaWqA1dwGdLLB1tVsfvR6g9h5ZPPJAIDgIe5/b6Os/4EqxWgL/U+Z6eGB6QG9fQM17yvDDpQTnyQdcyjiQcsQKGRCIsRUINsj5vv6O6rt1A1fCVZGMIGU7uJoEVi7MjWtYxRX6RAz/qWjS4NqPcQ+3eqEIxrGadDtLBIY1H/zb70u5dSzXOxqPSaWZLBNQSu0c6MQ3tHtL3P374AJ0Xd+1RfGeMMEjgMxbNbBrbmEzG6KUnUiMxca7tUksJToqrGyXuaRsUy4YUtJYuTiSycbWaj/8WDGhID9WGPzRhMpQIDAQAB",
+   "manifest_version": 2,
+   "name": "dotEPUB",
+   "options_page": "options.html",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "1.2.4"
+}

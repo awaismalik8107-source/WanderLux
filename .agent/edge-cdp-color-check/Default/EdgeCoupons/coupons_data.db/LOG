@@ -1,0 +1,5 @@
+2026/06/04-21:51:36.852 2938 Creating DB C:\Users\awais\Desktop\site\Site1\.agent\edge-cdp-color-check\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/06/04-21:51:36.900 2938 Reusing MANIFEST C:\Users\awais\Desktop\site\Site1\.agent\edge-cdp-color-check\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/06/04-21:51:40.041 3b1c Level-0 table #5: started
+2026/06/04-21:51:40.050 3b1c Level-0 table #5: 682661 bytes OK
+2026/06/04-21:51:40.055 3b1c Delete type=0 #3
